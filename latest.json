@@ -1,0 +1,7 @@
+{
+    "version": "1.0.1",
+    "downloadUrl": "https://example.com/downloads/UpdatingApp-1.0.1-win-x64.exe",
+    "releaseNotes": "Describe what changed in this release.",
+    "sha256": "PUT_THE_INSTALLER_SHA256_HASH_HERE"
+  }
+  
